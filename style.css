@@ -1,0 +1,106 @@
+body {
+  background-color: #F6F8FB;
+  color: #4D5470;
+  font-family: 'Lora', serif;
+  font-size: 16px;
+  font-weight: regular;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: #1179A1;
+}
+
+#text-contact {
+    position: absolute;
+    font-family: Georgia;
+    margin: 150 auto;
+    left: 0;
+    right: 0;
+    top: 8%;
+    color: black;
+    width: 62%;
+}
+
+.img-circle {
+  height: 150px;
+  border-radius: 50%;
+}
+
+#introduction {
+  margin-bottom: 40px;
+}
+
+.btn-blue {
+  text-decoration: none;
+  background-color: #0B66C2;
+  padding: 5px 10px;
+  color: white;
+  font-weight: 850;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 4px;
+  font-size: 30px;
+}
+
+.btn-blue:hover {
+  background-color: black;
+}
+
+.container {
+  margin: 10px auto;
+  width: 900px;
+}
+
+.card-white {
+  border-radius: 4px;
+  padding: 40px;
+  background-color: #F2FAFF;
+  text-align: center;
+  margin: 20px;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+#bandeau-bleu {
+  position: absolute;
+  height: 15%;
+  top: -3px;
+  right: -26px;
+}
+
+#main-card {
+  position: relative;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.barres-compétences {
+  width: 25%;
+}
+
+.icone {
+  padding: 10px;
+  width: 50px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+}
